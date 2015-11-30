@@ -1,0 +1,8 @@
+ro.qrom.beaconkey=0M000V5PH01B6QQD
+ro.qrom.product.device=HTC M8
+ro.qrom.product.device.brand=HTC
+ro.qrom.build.brand=tos
+ro.qrom.build.os=android4.4.4
+ro.qrom.otapath=/storage/sdcard0/
+qrom_disposeIcon_enable=1
+qrom_permission_enable=1
